@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_blue">#2E4058</color>
+    <color name="red">#F75564</color>
+    <color name="yellow">#FFEFDA</color>
+    <color name="status_en_cours">#FF9800</color>  <!-- Orange pour en cours -->
+    <color name="status_prepare">#4CAF50</color>   <!-- Vert pour préparé -->
+    <color name="primaryColor">#2196F3</color>
+    <color name="secondaryColor">#1976D2</color>
+    <color name="gradientStart">#4FC3F7</color>
+    <color name="grey">#757575</color>
+    <color name="orange">#FF9800</color>
+    <color name="green">#4CAF50</color>
+    <color name="gradientEnd">#2196F3</color>
+</resources>
