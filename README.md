@@ -4,12 +4,12 @@
 EnsajFood est une application destinée à la communauté de l'ENSAJ (École Nationale des Sciences Appliquées d'El Jadida) permettant de gérer et commander des repas au sein de l'établissement.
 
 ## Fonctionnalités
--🔐 Authentification des utilisateurs
--📱 Interface utilisateur intuitive
--🛍️ Commande de repas en ligne
--📦 Suivi des commandes en temps réel
--👨‍💼 Interface administrateur pour la gestion des produits
--📊 Interface pour la gestion des commandes
+- 🔐 Authentification des utilisateurs
+- 📱 Interface utilisateur intuitive
+- 🛍️ Commande de repas en ligne
+- 📦 Suivi des commandes en temps réel
+- 👨‍💼 Interface pour la gestion des produits
+- 📊 Interface pour la gestion des commandes
 
 ## Prérequis
 - Android Studio Hedgehog | 2023.1.1 ou version ultérieure
