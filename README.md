@@ -87,6 +87,9 @@ dependencyResolutionManagement {
     }
 }
 ```
+### 5. Vidéo de démonstration
+https://github.com/user-attachments/assets/bfd951ad-1e60-4099-a6d2-50c47e707fa3
+
 
 
 
